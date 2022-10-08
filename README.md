@@ -4,11 +4,11 @@
 
 <br>
 
-- 🧑‍🎓 Software Engineer student at University of Brasília
+- 🎓 Software Engineer student at University of Brasília
 
 - 🖥️ Participating in Oracle Next Education
 
-- 🧑‍💻 Interested in front-end web development
+- 💻 Interested in front-end web development
 
 
 ## How to reach me
@@ -47,8 +47,6 @@
 ## Experiences
 
 - [CollegeFlow](https://play.google.com/store/apps/details?id=com.fga_eps_mds.college_flow_app) - [(GitHub)](https://github.com/fga-eps-mds/CollegeFlow-Backend): Worked as Backend Developer. Used Node.js to develop an application to rate and review the university's subjects. 
-
-<br>
 
 ## Profile Status
 
