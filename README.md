@@ -52,5 +52,8 @@
 
 ## Profile Status
 
+<div align="center">
+
 ![Lucas Spinosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSpinosa&show_icons=true&theme=radical)
 
+</div>
