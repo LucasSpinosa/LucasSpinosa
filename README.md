@@ -28,22 +28,6 @@
     <img  title="C" alt="C" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">   
 </div>
 
-
-## Frameworks
-
-<div style="display: inline_block", align="center"><br/>
-    <img align="center" title="Node.js" alt="Node.js" width="56px" src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg>
-</div>
-
-
-## Others
-
-
-<div style="display: inline_block", align="center"><br/>
-    <img align="center" title="MongoDB" alt="MongoDB" width="56px" src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg>
-    <img align="center" title="Docker" alt="Docker" width="56px" src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg>
-</div>
-
 ## Experiences
 
 - [CollegeFlow](https://play.google.com/store/apps/details?id=com.fga_eps_mds.college_flow_app) - [(GitHub)](https://github.com/fga-eps-mds/CollegeFlow-Backend): Worked as Backend Developer. Used Node.js to develop an application to rate and review the university's subjects. 
