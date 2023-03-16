@@ -6,9 +6,9 @@
 
 - 🎓 Software Engineer student at University of Brasília
 
-- 🖥️ Participating in Oracle Next Education
+- 🖥️ Oracle Next Education alumnus
 
-- 💻 Interested in front-end web development
+- 💻 Interested in front-end web development and database development
 
 
 ## How to reach me
@@ -19,14 +19,27 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-spinosa-frontend/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LucasSpinosa)
 
-## Technologies 
+## Languages 
+
+<div style="display: inline_block", align="center"><br/>
+    <img  title="JavaScript" alt="JavaScript" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">    
+    <img  title="C" alt="C" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">   
+</div>
+
+## Technologies
 
 <div style="display: inline_block", align="center"><br/>
     <img title="HTML5" alt="HTML5" width="56px" src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg>
     <img title="CSS3" alt="CSS3" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg">
-    <img  title="JavaScript" alt="JavaScript" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">    
-    <img  title="C" alt="C" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">   
+    <img title="MySQL" alt="MySQL" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">
 </div>
+
+## Tools
+
+<div style="display: inline_block", align="center"><br/>
+    <img title="Git" alt="Git" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
+</div>
+
 
 ## Experiences
 
