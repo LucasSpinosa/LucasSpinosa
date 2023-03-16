@@ -21,23 +21,24 @@
 
 ## Languages 
 
-<div style="display: inline_block", align="center"><br/>
-    <img  title="JavaScript" alt="JavaScript" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">    
-    <img  title="C" alt="C" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">   
+<div style="display: inline_block", align="center"><br>
+    <img  title="JavaScript" alt="JavaScript" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
+    <img  title="C" alt="C" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">   
 </div>
 
 ## Technologies
 
-<div style="display: inline_block", align="center"><br/>
-    <img title="HTML5" alt="HTML5" width="56px" src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg>
-    <img title="CSS3" alt="CSS3" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg">
-    <img title="MySQL" alt="MySQL" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">
+<div style="display: inline_block", align="center"><br>
+    <img title="HTML5" alt="HTML5" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+    <img title="CSS3" alt="CSS3" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+    <img title="MySQL" alt="MySQL" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 ## Tools
 
 <div style="display: inline_block", align="center"><br/>
-    <img title="Git" alt="Git" width="56px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
+    <img title="Git" alt="Git" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img title="Linux" alt="Linux" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
 
 
@@ -47,8 +48,7 @@
 
 ## Profile Status
 
-<div align="center">
-
-![Lucas Spinosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSpinosa&show_icons=true&theme=radical)
-
+<div style="display: inline_block", align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LucasSpinosa&show_icons=true&theme=radical">
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasSpinosa&hide=makefile,c%2B%2B&theme=algolia&show_icons=true">
 </div>
