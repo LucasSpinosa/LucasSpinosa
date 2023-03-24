@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-spinosa-frontend/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LucasSpinosa)
 
-## Languages and tools
+## Languages and Tecnologies
 
 <div style="display: inline_block", align="center"><br>
     <img title="HTML5" alt="HTML5" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
