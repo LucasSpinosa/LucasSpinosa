@@ -25,7 +25,12 @@
     <img title="HTML5" alt="HTML5" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
     <img title="CSS3" alt="CSS3" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
     <img  title="JavaScript" alt="JavaScript" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
-    <img  title="C" alt="C" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">   
+    <img  title="C" alt="C" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+    <img title="Bootstrap" alt="Bootstrap" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+    <img title="React" alt="React" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img title="Next.js" alt="Next.js" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+    <img title="Node.js" alt="Node.js" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+    <img title="Express" alt="Express" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
     <img title="MySQL" alt="MySQL" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
     <img title="Git" alt="Git" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
     <img title="Linux" alt="Linux" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
