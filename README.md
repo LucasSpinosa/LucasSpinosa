@@ -24,7 +24,8 @@
 <div style="display: inline_block", align="center"><br>
     <img title="HTML5" alt="HTML5" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
     <img title="CSS3" alt="CSS3" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-    <img  title="JavaScript" alt="JavaScript" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
+    <img  title="JavaScript" alt="JavaScript" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img  title="TypeScript" alt="TypeScript" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> 
     <img  title="C" alt="C" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
     <img title="Bootstrap" alt="Bootstrap" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
     <img title="React" alt="React" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
