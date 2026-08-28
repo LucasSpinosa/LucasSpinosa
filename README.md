@@ -43,7 +43,7 @@
 
 ## Profile Status
 
-<div style="display: inline_block", align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LucasSpinosa&show_icons=true&theme=radical">
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasSpinosa&hide=makefile,c%2B%2B&theme=algolia&show_icons=true">
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasSpinosa&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=LucasSpinosa&hide=makefile,c%2B%2B&theme=algolia&layout=compact" />
+</p>
