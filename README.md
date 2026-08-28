@@ -8,7 +8,7 @@
 
 - 🖥️ Oracle Next Education alumnus
 
-- 💻 Interested in front-end web development and database development
+- 💻 Interested in full-stack web development
 
 
 ## Contact
