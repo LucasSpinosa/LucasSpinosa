@@ -33,6 +33,7 @@
     <img title="Node.js" alt="Node.js" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
     <img title="Express" alt="Express" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
     <img title="MySQL" alt="MySQL" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+    <img title="Microsoft Sharepoint" alt="Microsoft Sharepoint" width="56px" src="https://imgs.search.brave.com/SSNsL3GAchtd2EzAEZsQ1DF5PwCZN54ZNH-pm7TQG1k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9zdmcv/bWljcm9zb2Z0LXNo/YXJlcG9pbnQuc3Zn">
     <img title="Git" alt="Git" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
     <img title="Linux" alt="Linux" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
